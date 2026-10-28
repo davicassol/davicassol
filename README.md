@@ -2,8 +2,8 @@
 
 **`Estudante de Programação`**
 
-Me chamo Davi Evaldt Cassol, tenho 23 anos e sou natural do Rio Grande de Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na ULBRA Torres, com interesse em desenvolvimento de software e aprendizado contínuo.
-Possuo conhecimento em Flutter, JavaScript, Python, HTML, CSS e Git, além de noções de bancos de dados e modelagem de sistemas.
+Me chamo Davi Evaldt Cassol, tenho 24 anos e sou natural do Rio Grande de Sul. Sou formado Análise e Desenvolvimento de Sistemas na ULBRA Torres, com interesse em desenvolvimento de software e aprendizado contínuo.
+Possuo conhecimento em Flutter, JavaScript, C#, Python, HTML, CSS e Git, além de noções de bancos de dados e modelagem de sistemas.
 
 ### Sinta-se a vontade para entrar em contato via:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-evaldt-cassol-95245b231/)
